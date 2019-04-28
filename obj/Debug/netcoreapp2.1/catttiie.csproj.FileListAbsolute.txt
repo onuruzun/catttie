@@ -25,4 +25,3 @@
 /Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.RazorTargetAssemblyInfo.cache
 /Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.dll
 /Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.pdb
-/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.csprojAssemblyReference.cache

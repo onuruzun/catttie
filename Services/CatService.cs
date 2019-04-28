@@ -28,6 +28,14 @@ namespace catttiie.Services
         {
             try
             {
+                if (string.IsNullOrEmpty(id))
+                {
+                    Random random = new Random();
+
+                    int randomNumber = random.Next(0, 1677);
+
+                    id = randomNumber.ToString();
+                }
 
                 Cat model = new Cat();
 

@@ -1,9 +1,8 @@
-﻿<Properties StartupConfiguration="{C7E4FAF2-E7CA-44A2-ADEA-80FE1489E591}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services/CatService.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C7E4FAF2-E7CA-44A2-ADEA-80FE1489E591}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="catttie Status">
     <Files>
-      <File FileName="Services/CatService.cs" Line="49" Column="56" />
-      <File FileName="Controllers/CatController.cs" Line="1" Column="1" />
-      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Services/CatService.cs" Line="31" Column="1" />
+      <File FileName="catttie Status" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,6 +10,8 @@
           <Node name="catttiie" expanded="True">
             <Node name="catttiie" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Helper" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Services" expanded="True">
                 <Node name="CatService.cs" selected="True" />
               </Node>
@@ -23,7 +24,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/onuruzun/Desktop/catttie/Services/CatService.cs" relfile="Services/CatService.cs" line="30" column="13" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.catttiie PreferredExecutionTarget="MonoDevelop.Default" />

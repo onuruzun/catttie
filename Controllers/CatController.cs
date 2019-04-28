@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using catttiie.Models.Response;
 using catttiie.Services.Abstract;
 using Microsoft.AspNetCore.Mvc;

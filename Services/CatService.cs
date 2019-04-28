@@ -28,25 +28,26 @@ namespace catttiie.Services
         {
             try
             {
+
                 Cat model = new Cat();
 
-                string contentRootPath = _hostingEvn.ContentRootPath;
-                var json = System.IO.File.ReadAllText($"{contentRootPath}/wwwroot/requesturi.json");
+                string webRootPath = _hostingEvn.WebRootPath;
+
+                var json = System.IO.File.ReadAllText(System.IO.Path.Combine(_hostingEvn.WebRootPath, "requesturi.json").ToString());
 
                 RequestUri requestUri =
                     Newtonsoft.Json.JsonConvert.DeserializeObject<RequestUri>(json);
 
-
-                string uri = $"https://aws.random.cat/view/{id}";
+                string uri = $"{requestUri.Uri}{id}";
 
                 HttpClient client = new HttpClient();
-
                 using (var response = await client.GetAsync(uri))
                 {
                     using (var content = response.Content)
                     {
                         var result = await content.ReadAsStringAsync();
                         var document = new HtmlDocument();
+
                         document.LoadHtml(result);
                         var nodes = document.DocumentNode.SelectNodes("//body/a/img/@src").ToList();
 

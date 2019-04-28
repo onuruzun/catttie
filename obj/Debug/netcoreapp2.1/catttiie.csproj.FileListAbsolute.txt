@@ -12,3 +12,17 @@
 /Users/onuruzun/Projects/catttiie/catttiie/obj/Debug/netcoreapp2.1/catttiie.RazorTargetAssemblyInfo.cache
 /Users/onuruzun/Projects/catttiie/catttiie/obj/Debug/netcoreapp2.1/catttiie.dll
 /Users/onuruzun/Projects/catttiie/catttiie/obj/Debug/netcoreapp2.1/catttiie.pdb
+/Users/onuruzun/Desktop/catttie/bin/Debug/netcoreapp2.1/catttiie.deps.json
+/Users/onuruzun/Desktop/catttie/bin/Debug/netcoreapp2.1/catttiie.runtimeconfig.json
+/Users/onuruzun/Desktop/catttie/bin/Debug/netcoreapp2.1/catttiie.runtimeconfig.dev.json
+/Users/onuruzun/Desktop/catttie/bin/Debug/netcoreapp2.1/catttiie.dll
+/Users/onuruzun/Desktop/catttie/bin/Debug/netcoreapp2.1/catttiie.pdb
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.csproj.CoreCompileInputs.cache
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.RazorAssemblyInfo.cache
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.RazorAssemblyInfo.cs
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.AssemblyInfoInputs.cache
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.AssemblyInfo.cs
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.RazorTargetAssemblyInfo.cache
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.dll
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.pdb
+/Users/onuruzun/Desktop/catttie/obj/Debug/netcoreapp2.1/catttiie.csprojAssemblyReference.cache

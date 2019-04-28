@@ -1,5 +1,4 @@
-﻿using System;
-namespace catttiie.Models.Request
+﻿namespace catttiie.Models.Request
 {
     public class RequestUri
     {

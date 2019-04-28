@@ -11884,11 +11884,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/onuruzun/Projects/catttiie/catttiie/catttiie.csproj",
+      "projectUniqueName": "/Users/onuruzun/Desktop/catttie/catttiie.csproj",
       "projectName": "catttiie",
-      "projectPath": "/Users/onuruzun/Projects/catttiie/catttiie/catttiie.csproj",
+      "projectPath": "/Users/onuruzun/Desktop/catttie/catttiie.csproj",
       "packagesPath": "/Users/onuruzun/.nuget/packages/",
-      "outputPath": "/Users/onuruzun/Projects/catttiie/catttiie/obj/",
+      "outputPath": "/Users/onuruzun/Desktop/catttie/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

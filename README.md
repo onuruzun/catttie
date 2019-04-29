@@ -1,6 +1,8 @@
-# Catttie!
+ # 🐱 Catttie! 🐱
 
-Public cat photos API
+✨ Public cat 🐱 photos API 
 
-thanks for the [random.cat](random.cat)
+👏🏼 thanks for the [random.cat][df1]
  
+
+[df1]: <http://random.cat/>

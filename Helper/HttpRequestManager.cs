@@ -14,7 +14,7 @@ namespace catttiie.Helper
             _httpClient = new HttpClient();
         }
 
-        private static HttpRequestManager _helper;
+        private static readonly HttpRequestManager _helper;
 
         public static HttpRequestManager Instance
         {

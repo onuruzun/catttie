@@ -3,6 +3,6 @@ namespace catttiie.Models.Response
 {
     public class Cat
     {
-        public string File { get; set; }
+        public string Uri { get; set; }
     }
 }

@@ -21,7 +21,7 @@ namespace catttiie.Controllers
         [Route("cat")]
         public Task<Cat> GetCats(string id)
         {
-            var result = _catService.GetCatsAsync(id);
+            var result = _catService.GetCats(id);
             return result;
         }
     }

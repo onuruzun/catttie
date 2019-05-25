@@ -30,7 +30,6 @@
 /Users/onuruzun/Desktop/open-source/catttie/bin/Debug/netcoreapp2.1/catttiie.runtimeconfig.dev.json
 /Users/onuruzun/Desktop/open-source/catttie/bin/Debug/netcoreapp2.1/catttiie.dll
 /Users/onuruzun/Desktop/open-source/catttie/bin/Debug/netcoreapp2.1/catttiie.pdb
-/Users/onuruzun/Desktop/open-source/catttie/obj/Debug/netcoreapp2.1/catttiie.csprojAssemblyReference.cache
 /Users/onuruzun/Desktop/open-source/catttie/obj/Debug/netcoreapp2.1/catttiie.csproj.CoreCompileInputs.cache
 /Users/onuruzun/Desktop/open-source/catttie/obj/Debug/netcoreapp2.1/catttiie.RazorAssemblyInfo.cache
 /Users/onuruzun/Desktop/open-source/catttie/obj/Debug/netcoreapp2.1/catttiie.RazorAssemblyInfo.cs
